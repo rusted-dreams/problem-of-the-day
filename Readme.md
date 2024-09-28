@@ -4,8 +4,11 @@
 
 <details>
 <summary>2024_09</summary>
-    |date|problem|link|revisited|
-    |---|---|---|---|
-    |2024_09_01|Problem of the Day|https://leetcode.com/problems/problem-of-the-day/|[x]|
-
+    | 	header1	 | 	header2	 | 	header3	 | 
+| 	:-----:	 | 	:-----:	 | 	:-----:	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
 </details>
