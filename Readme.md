@@ -21,5 +21,6 @@
 |12|641|[divide intervals into min no. of groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)|&cross;|
 |15 |2938 |[Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-10-15) | &dash;| 
 |16|1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/) |&cross;|
+|17|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/?envType=daily-question&envId=2024-10-17) |&cross;|
 
 </details>
