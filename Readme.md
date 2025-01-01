@@ -12,7 +12,6 @@
 
 </details>
 
-
 <details>
 <summary>2024_10</summary>
 
@@ -22,5 +21,14 @@
 |15 |2938 |[Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-10-15) | &dash;| 
 |16|1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/) |&cross;|
 |17|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/?envType=daily-question&envId=2024-10-17) |&cross;|
+
+</details>
+
+<details>
+<summary>2025_01</summary>
+
+|date|problem|link|revisited|
+|:--|:-----|:---|:-------:|
+|01|1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)|&cross;|
 
 </details>
