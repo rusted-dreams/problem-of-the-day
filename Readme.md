@@ -30,5 +30,6 @@
 |date|problem|link|revisited|
 |:--|:-----|:---|:-------:|
 |01|1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)|&cross;|
+|02|2559|[Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/?envType=daily-question&envId=2025-01-02)|&cross;|
 
 </details>
