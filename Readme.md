@@ -32,5 +32,6 @@
 |01|1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)|&cross;|
 |02|2559|[Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/?envType=daily-question&envId=2025-01-02)|&cross;|
 |03|2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/?envType=daily-question&envId=2025-01-03)|&cross;|
+|04|1930|[Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/?envType=daily-question&envId=2025-01-04)|&cross;|
 
 </details>
