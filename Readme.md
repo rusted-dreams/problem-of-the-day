@@ -34,5 +34,6 @@
 |03|2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/?envType=daily-question&envId=2025-01-03)|&cross;|
 |04|1930|[Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/?envType=daily-question&envId=2025-01-04)|&cross;|
 |05|2381|[2381. Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/?envType=daily-question&envId=2025-01-05)|&cross;|
+|06|1769|[1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/?envType=daily-question&envId=2025-01-06)|&cross;|
 
 </details>
