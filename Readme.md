@@ -38,6 +38,7 @@
 |07|1408|[1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/?envType=daily-question&envId=2025-01-07)|string, kmp|&cross;| solved using brute force. optimise using kmp|
 |08|3042|[3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/?envType=daily-question&envId=2025-01-08)|string, Trie|&cross;| solved using brute force. optimization needed|
 |09|2185|[2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/?envType=daily-question&envId=2025-01-09)|string, pattern matching|&cross;| solved using brute force. explore optimization|
+|10|916|[916. Word Subsets](https://leetcode.com/problems/word-subsets/?envType=daily-question&envId=2025-01-10)|string, pattern matching|&cross;| solved but explore optimization|
 
 
 </details>
