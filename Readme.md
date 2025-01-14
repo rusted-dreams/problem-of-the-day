@@ -42,6 +42,7 @@
 |11|1400|[1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/?envType=daily-question&envId=2025-01-11)|string, map, greedy|&cross;| intution didn't came naturally, problem thik se samjha nhi tha.|
 |12|2116|[2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/?envType=daily-question&envId=2025-01-12)|string, stack, greedy|&cross;| almost ho gya tha khudse.|
 |13|2116|[3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/?envType=daily-question&envId=2025-01-13)|string, logical|&cross;|good easy question|
+|14|2657|[2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/?envType=daily-question&envId=2025-01-14)|array, hashtable, bit manipulation|&cross;|good easy practice problem|
 
 
 </details>
