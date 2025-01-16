@@ -44,6 +44,7 @@
 |13|2116|[3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/?envType=daily-question&envId=2025-01-13)|string, logical|&cross;|good easy question|
 |14|2657|[2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/?envType=daily-question&envId=2025-01-14)|array, hashtable, bit manipulation|&cross;|good easy practice problem|
 |15|2429|[2429. Minimize XOR](https://leetcode.com/problems/minimize-xor/?envType=daily-question&envId=2025-01-15)|bit manipulation|&cross;|bit manipulation padhna padega|
+|16|2425|[2425. Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)|bit manipulation|&cross;|ho gya tha mujhse but bit manipulation padhna padega|
 
 
 </details>
