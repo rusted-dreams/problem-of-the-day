@@ -47,6 +47,7 @@
 |16|2425|[2425. Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)|bit manipulation|&cross;|ho gya tha mujhse but bit manipulation padhna padega|
 |17|2683|[2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/?envType=daily-question&envId=2025-01-17)|bit manipulation|&cross;|tha easy question par hua nhi mujhse|
 |18|1368|[1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/?envType=daily-question&envId=2025-01-18)|2d-array, bfs, shortest path, heap(priority queue), graph, matrix|&cross;|zero idea bas copy paste kiya hai|
+|19|407|[407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/?envType=daily-question&envId=2025-01-19)|heap, priority queue, matrix|&cross;|zero idea bas copy paste kiya hai|
 
 
 </details>
