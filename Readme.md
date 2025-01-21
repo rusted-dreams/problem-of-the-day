@@ -49,6 +49,7 @@
 |18|1368|[1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/?envType=daily-question&envId=2025-01-18)|2d-array, bfs, shortest path, heap(priority queue), graph, matrix|&cross;|zero idea bas copy paste kiya hai|
 |19|407|[407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/?envType=daily-question&envId=2025-01-19)|heap, priority queue, matrix|&cross;|zero idea bas copy paste kiya hai|
 |20|2661|[2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/?envType=daily-question&envId=2025-01-20)|array, hashing, matrix|&cross;|was a easy one, karne ka mann nhi kiya to approach dekha and coded myself|
+|21|2017|[2017. Grid Game](https://leetcode.com/problems/grid-game/?envType=daily-question&envId=2025-01-21)|array, matrix|&cross;|was a easy one, khud karna chaiye tha...|
 
 
 </details>
