@@ -50,6 +50,7 @@
 |19|407|[407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/?envType=daily-question&envId=2025-01-19)|heap, priority queue, matrix|&cross;|zero idea bas copy paste kiya hai|
 |20|2661|[2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/?envType=daily-question&envId=2025-01-20)|array, hashing, matrix|&cross;|was a easy one, karne ka mann nhi kiya to approach dekha and coded myself|
 |21|2017|[2017. Grid Game](https://leetcode.com/problems/grid-game/?envType=daily-question&envId=2025-01-21)|array, matrix|&cross;|was a easy one, khud karna chaiye tha...|
+|22||[1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/?envType=daily-question&envId=2025-01-22)|array, matrix, graph, multi-source-BFS|&cross;|graph is another topic jo karna hai|
 
 
 </details>
