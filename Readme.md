@@ -52,6 +52,7 @@
 |21|2017|[2017. Grid Game](https://leetcode.com/problems/grid-game/?envType=daily-question&envId=2025-01-21)|array, matrix|&cross;|was a easy one, khud karna chaiye tha...|
 |22|1765|[1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/?envType=daily-question&envId=2025-01-22)|array, matrix, graph, multi-source-BFS|&cross;|graph is another topic jo karna hai|
 |23|1267|[1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/?envType=daily-question&envId=2025-01-23)|array, matrix, graph, bfs, dfs|&cross;|graph is another topic jo karna hai, easy tha aaj ka problem thode aur effort marta to ho jaata|
+|25|2948|[2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/?envType=daily-question&envId=2025-01-25)|array, sorting, hashing|&cross;|achha question tha, was on the right track but hua nhi|
 
 
 </details>
