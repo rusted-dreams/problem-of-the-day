@@ -54,6 +54,7 @@
 |23|1267|[1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/?envType=daily-question&envId=2025-01-23)|array, matrix, graph, bfs, dfs|&cross;|graph is another topic jo karna hai, easy tha aaj ka problem thode aur effort marta to ho jaata|
 |25|2948|[2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/?envType=daily-question&envId=2025-01-25)|array, sorting, hashing|&cross;|achha question tha, was on the right track but hua nhi|
 |26|2127|[2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/?envType=daily-question&envId=2025-01-26)|bfs, graph|&cross;|graph ka bohot hi hard question, please revisit this once graph padh lo|
+|26|1462|[1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/?envType=daily-question&envId=2025-01-27)|bfs, graph|&cross;|graph padh le be|
 
 
 </details>
