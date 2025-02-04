@@ -66,6 +66,7 @@
 |01|[3151. Special Array I](https://leetcode.com/problems/special-array-i/?envType=daily-question&envId=2025-02-01)|arrays|&cross;|&cross;|easy array question|
 |02|[1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/?envType=daily-question&envId=2025-02-02)|arrays|&cross;|&cross;|easy array question|
 |03|[3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/?envType=daily-question&envId=2025-02-03)|arrays|&cross;|&cross;|easy array question|
+|04|[1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/?envType=daily-question&envId=2025-02-04)|arrays|&cross;|&cross;|easy array question|
 
 
 </details>
