@@ -67,6 +67,7 @@
 |03|[3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/?envType=daily-question&envId=2025-02-03)|arrays|&cross;|&cross;|easy array question|
 |04|[1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/?envType=daily-question&envId=2025-02-04)|arrays|&cross;|&cross;|easy array question|
 |06|[1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)|arrays, hashing, counting|&cross;|&cross;| good practice problem|
+|07|[3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/?envType=daily-question&envId=2025-02-07)|arrays, hashing, counting|&cross;|&cross;| good practice problem|
 
 
 </details>
