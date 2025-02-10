@@ -68,6 +68,9 @@
 |04|[1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/?envType=daily-question&envId=2025-02-04)|arrays|&cross;|&cross;|easy array question|
 |06|[1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)|arrays, hashing, counting|&cross;|&cross;| good practice problem|
 |07|[3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/?envType=daily-question&envId=2025-02-07)|arrays, hashing, counting|&cross;|&cross;| good practice problem|
+|08|[2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/?envType=daily-question&envId=2025-02-08)|arrays, hashing, counting|&cross;|&cross;| good practice problem|
+|09|[2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/?envType=daily-question&envId=2025-02-09)|array, hashing, counting|&cross;|&cross;| good practice problem|
+|10|[3174. Clear Digits](https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10)|string|&cross;|&cross;|easy string problem|
 
 
 </details>
