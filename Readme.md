@@ -74,3 +74,12 @@
 
 
 </details>
+<details>
+<summary>2025_03</summary>
+
+|date|link|topics|Difficulty|Mark for revision|revised on|remarks|
+|:--|:---|:-----:|:----:|:-------:|:----:|:------:|
+|09|[3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/?envType=daily-question&envId=2025-03-09)|arrays, circular array, sliding window|medium|&cross;|&cross;|decent problem did it on my own|
+|15|[2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/?envType=daily-question&envId=2025-03-15)|binary search on answers|medium|&check;|&cross;|had to see solution|
+
+</details>
