@@ -82,5 +82,6 @@
 |09|[3208. Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/?envType=daily-question&envId=2025-03-09)|arrays, circular array, sliding window|medium|&cross;|&cross;|decent problem did it on my own|
 |15|[2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/?envType=daily-question&envId=2025-03-15)|binary search on answers|medium|&check;|&cross;|had to see solution|
 |16|[2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/?envType=daily-question&envId=2025-03-16)|binary search on answers|medium|&cross;|&cross;|kar liya khud se|
+|17|[2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/?envType=daily-question&envId=2025-03-17)|hashing, array|easy|&cross;|&cross;|easy one|
 
 </details>
