@@ -83,6 +83,7 @@
 |15|[2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/?envType=daily-question&envId=2025-03-15)|binary search on answers|medium|&check;|&cross;|had to see solution|
 |16|[2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/?envType=daily-question&envId=2025-03-16)|binary search on answers|medium|&cross;|&cross;|kar liya khud se|
 |17|[2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/?envType=daily-question&envId=2025-03-17)|hashing, array|easy|&cross;|&cross;|easy one|
-|17|[2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/?envType=daily-question&envId=2025-03-18)|sliding window, bit manipulation, hashing, array|medium|&cross;|&cross;|good problem ho gya but struggle kiya kaffi|
+|18|[2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/?envType=daily-question&envId=2025-03-18)|sliding window, bit manipulation, hashing, array|medium|&cross;|&cross;|good problem ho gya but struggle kiya kaffi|
+|19|[3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/?envType=daily-question&envId=2025-03-19)|sliding window, bit manipulation|easy|&cross;|&cross;|easy one|
 
 </details>
