@@ -85,5 +85,6 @@
 |17|[2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/?envType=daily-question&envId=2025-03-17)|hashing, array|easy|&cross;|&cross;|easy one|
 |18|[2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/?envType=daily-question&envId=2025-03-18)|sliding window, bit manipulation, hashing, array|medium|&cross;|&cross;|good problem ho gya but struggle kiya kaffi|
 |19|[3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/?envType=daily-question&envId=2025-03-19)|sliding window, bit manipulation|easy|&cross;|&cross;|easy one|
+|21|[2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/?envType=daily-question&envId=2025-03-21)|graph, topological sorting, hashing|medium|&cross;|&cross;|had to look for solution!|
 
 </details>
