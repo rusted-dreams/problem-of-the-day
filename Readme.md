@@ -88,5 +88,6 @@
 |21|[2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/?envType=daily-question&envId=2025-03-21)|graph, topological sorting, hashing|medium|&cross;|&cross;|had to look for solution!|
 |24|[3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/?envType=daily-question&envId=2025-03-24)|array, sorting|medium|&cross;|&cross;|had to look for solution!|
 |25|[3394. Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/?envType=daily-question&envId=2025-03-25)|array, sorting|medium|&cross;|&cross;|had to look for hints!|
+|26|[2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/?envType=daily-question&envId=2025-03-26)|array, sorting, maths|medium|&cross;|&cross;|good problem did it myself|
 
 </details>
