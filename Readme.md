@@ -91,3 +91,12 @@
 |26|[2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/?envType=daily-question&envId=2025-03-26)|array, sorting, maths|medium|&cross;|&cross;|good problem did it myself|
 
 </details>
+<details>
+<summary>2025_03</summary>
+
+|date|link|topics|Difficulty|Mark for revision|revised on|remarks|
+|:--|:---|:-----:|:----:|:-------:|:----:|:------:|
+|20|[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/?envType=daily-question&envId=2025-04-20)|hash-map, greedy, logical, math, array|medium|&cross;|&cross;|accha laga solve kar ke|
+
+
+</details>
