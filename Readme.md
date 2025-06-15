@@ -92,11 +92,22 @@
 
 </details>
 <details>
-<summary>2025_03</summary>
+<summary>2025_04</summary>
 
 |date|link|topics|Difficulty|Mark for revision|revised on|remarks|
 |:--|:---|:-----:|:----:|:-------:|:----:|:------:|
 |20|[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/?envType=daily-question&envId=2025-04-20)|hash-map, greedy, logical, math, array|medium|&cross;|&cross;|accha laga solve kar ke|
+
+
+</details>
+<details>
+<summary>2025_06</summary>
+
+|date|link|topics|Difficulty|Mark for revision|revised on|remarks|
+|:--|:---|:-----:|:----:|:-------:|:----:|:------:|
+|13|[2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/?envType=daily-question&envId=2025-06-13)|binary search|medium|&check;|&cross;|2 hrs dimag khapne ke baad when it clicked ki binary search lagega 🫡|
+|14|[2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/?envType=daily-question&envId=2025-06-14)|greedy, math|easy|&cross;|&cross;|easy one, kar liya tha but used vectors should have used string|
+|15|[1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/?envType=daily-question&envId=2025-06-15)|greedy, math|medium|&cross;|&cross;|easy sa to tha, dhayan rakha kar `x == '1'` and `x == 1` both are different|
 
 
 </details>
