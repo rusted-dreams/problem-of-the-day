@@ -109,6 +109,15 @@
 |14|[2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/?envType=daily-question&envId=2025-06-14)|greedy, math|easy|&cross;|&cross;|easy one, kar liya tha but used vectors should have used string|
 |15|[1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/?envType=daily-question&envId=2025-06-15)|greedy, math|medium|&cross;|&cross;|easy sa to tha, dhayan rakha kar `x == '1'` and `x == 1` both are different|
 |15|[2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/?envType=daily-question&envId=2025-06-24)|array|easy|&cross;|&cross;|easy sa to tha|
+</details>
+
+<details>
+<summary>2025_08</summary>
+
+|date|link|topics|Difficulty|Mark for revision|revised on|remarks|
+|:--|:---|:-----:|:----:|:-------:|:----:|:------:|
+|28|[3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/?envType=daily-question&envId=2025-08-28)|2D matrix, diagonal traversal|medium|&check;|&cross;|nice good diagonal traversal problem, had to look for the approach but coded myself.|
+
 
 
 </details>
